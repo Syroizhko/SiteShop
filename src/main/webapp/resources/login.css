@@ -1,0 +1,78 @@
+html,body{
+    min-height: 100%;
+
+
+}
+body{
+    padding-top: 100px;
+    background: #C7E8F0 ;
+    background: -webkit-linear-gradient(to bottom,#C7E8F0, #FAFFFF) ;
+    background: linear-gradient(to bottom,#C7E8F0,#FAFFFF) ;
+
+}
+
+.form{
+    width: 50%;
+    text-align: center;
+    border: 5px groove #0A64A4;
+    border-radius: 10px 10px 40px 10px;
+    margin: auto;
+    padding-right: 10px;
+    background: #BFD9D7;
+
+    height: 50%;
+}
+.tab{
+    font-family:Verdana, Arial, sans-serif ;
+   width: 100%;
+
+}
+.tr{
+}
+.tit{
+    font-family:Verdana, Arial, serif ;
+    size: auto;
+}
+.img1{
+    width: 100%;
+    height: auto;
+    display: block;
+    min-width: 100px;
+    min-height: 100px;
+}
+.td1{
+    border: 1px black;
+
+}
+.a1{
+    text-decoration: none;
+}
+.td2{
+    border-top: 1px black;
+}
+.myButton {
+    box-shadow:inset 0px 1px 0px 0px #54a3f7;
+    background:linear-gradient(to bottom, #007dc1 5%, #0061a7 100%);
+    background-color:#007dc1;
+    border-radius:3px;
+    border:1px solid #124d77;
+    display:inline-block;
+    cursor:pointer;
+    color:#ffffff;
+    font-family:Arial;
+    font-size:13px;
+    padding:6px 24px;
+    text-decoration:none;
+    text-shadow:0px 1px 0px #154682;
+
+}
+.myButton:hover {
+    background:linear-gradient(to bottom, #0061a7 5%, #007dc1 100%);
+    background-color:#0061a7;
+}
+.myButton:active {
+    position:relative;
+    top:1px;
+}
+
+

@@ -1,0 +1,73 @@
+html,body{
+    height: 100%;
+}
+body{
+    height: 100%;
+    background: #bdf5ff ;
+    background: -webkit-linear-gradient(to bottom,#bdf5ff, #a0ecfa) ;
+    background: linear-gradient(to bottom,#bdf5ff,#a0ecfa) ;
+}
+
+.post{
+    border: 5px groove #0A64A4;
+    margin: auto;
+    margin-bottom: 5px;
+    padding: 10px;
+    border-radius: 40px 10px;
+    width: 45%;
+    background: #f7fcff;
+
+}
+.But{
+    text-align: center;
+}
+.myButton {
+    box-shadow:inset 0px 1px 0px 0px #54a3f7;
+    background:linear-gradient(to bottom, #007dc1 5%, #0061a7 100%);
+    background-color:#007dc1;
+    border-radius:3px;
+    border:1px solid #124d77;
+    display:inline-block;
+    cursor:pointer;
+    color:#ffffff;
+    font-family:Arial;
+    font-size:13px;
+    padding:6px 24px;
+    text-decoration:none;
+    text-shadow:0px 1px 0px #154682;
+
+}
+.myButton:hover {
+    background:linear-gradient(to bottom, #0061a7 5%, #007dc1 100%);
+    background-color:#0061a7;
+}
+.myButton:active {
+    position:relative;
+    top:1px;
+}
+.h1{
+    color: black;
+    font-family: 'Trocchi', serif;
+    font-size: 45px;
+    font-weight: normal;
+    line-height: 48px;
+    margin: 0;
+    text-align: center;
+}
+td{
+    text-align: left;
+    color: #4c4a37;
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 18px;
+    line-height: 32px;
+    margin: 0 0 24px;
+}
+.td{
+    text-align: right;
+}
+.img3{
+    border: 2px groove black;
+    border-radius: 50%;
+    width: 160px;
+    height:160px;
+}

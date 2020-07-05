@@ -1,0 +1,94 @@
+html,body{
+    top: 50px;
+    background-size: auto;
+    min-height: 100%;
+}
+body{
+
+    min-height: 100%;
+    background-color: #FFDEE9;
+    background-image: linear-gradient(0deg, #FFDEE9 0%, #B5FFFC 100%);
+
+}
+.container{
+    position: relative;
+    top: 50px;
+    width: 100%;
+}
+
+
+.rubrick{
+
+}
+
+
+.name{
+    margin: auto;
+    padding: 10px;
+    border-radius: 40px;
+    margin-bottom: 10px;
+    text-align: center;
+}
+.post{
+    border: 5px groove #0A64A4;
+    margin: auto;
+    margin-bottom: 5px;
+    padding: 10px;
+    border-radius: 5px;
+    width: 60%;
+    background: #f7fcff;
+
+}
+.img2{
+    border: 2px groove black;
+    width: 160px;
+    height:160px;
+}
+tr{
+    width: 100%;
+}
+
+.cou1{
+    text-align: center;
+}
+.dat{
+    text-align: right;
+}
+.tab{
+    border: 1px solid black;
+    border-radius: 1%;
+
+}
+.namePost{
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+}
+
+.h2{
+    color: black;
+    font-family: 'Trocchi', serif;
+    font-size: 35px;
+    font-weight: normal;
+    line-height: 48px;
+    margin: 0;
+}
+.h1{
+    color: black;
+    font-family: 'Trocchi', serif;
+    font-size: 45px;
+    font-weight: normal;
+    line-height: 48px;
+    margin: 0;
+}
+tr{
+    color: #4c4a37;
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 18px;
+    line-height: 32px;
+    margin: 0 0 24px;
+}
+.but{
+    text-align: right;
+}
+.img1{
+    width: 100%;
+}
